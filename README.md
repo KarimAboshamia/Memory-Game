@@ -11,7 +11,7 @@ For specific, detailed instructions, look at the project instructions in the [Ud
 
 ## How to play the game
 Clone the repo and start playing
-or Open this link : http://kareemaboshamia.bitballoon.com/
+or Open this link : https://karimaboshamia.github.io/Memory-Game/
 
 ## Resources
 ### Shuffle functions
